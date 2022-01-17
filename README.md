@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on redis on k8s and ops platform.    
 
-I am a rookie, I hope I will be a strong in the future and I am realizing it.     
+I am a rookie, I hope I will be a strong in the future.     
 
 
 
