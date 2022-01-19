@@ -25,4 +25,3 @@ I am a rookie, I hope I will be a strong in the future.
 
 | <a href="https://github.com/631086083/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=631086083&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Haizhou Sun's github stats" /></a> | <a href="https://github.com/631086083/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=631086083&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-![Cheng Jiang's github stats](https://github-readme-stats.vercel.app/api?username=631086083)
